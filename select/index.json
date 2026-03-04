@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "スペクタクル",
+  "base_artist": "空白ごっこ",
+  "createdAt": "2026-03-04T04:34:06.291115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スーパー スタァ スペクタクル",
+      "artist": "愛城華恋(CV:小山百代) feat. 神楽ひかり(CV:三森すずこ)",
+      "has_synced": true,
+      "path": "select/01_スーパー_スタァ_スペクタクル_愛城華恋(CV_小山百代)_feat._神楽ひかり(CV_三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スーパー スタァ スペクタクル",
+      "artist": "愛城華恋(CV:小山百代); 神楽ひかり(CV:三森すずこ)",
+      "has_synced": true,
+      "path": "select/02_スーパー_スタァ_スペクタクル_愛城華恋(CV_小山百代);_神楽ひかり(CV_三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スーパー スタァ スペクタクル",
+      "artist": "愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/03_スーパー_スタァ_スペクタクル_愛城華恋(CV.小山百代)、神楽ひかり(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "小野大輔",
+      "has_synced": true,
+      "path": "select/04_まっがーれ↓スペクタクル_小野大輔.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "小泉一樹)小野大輔",
+      "has_synced": true,
+      "path": "select/05_まっがーれ↓スペクタクル_小泉一樹)小野大輔.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "まっがーれ↓スペクタクル",
+      "artist": "古泉一樹 (CV.小野大輔)",
+      "has_synced": true,
+      "path": "select/06_まっがーれ↓スペクタクル_古泉一樹_(CV.小野大輔).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "植田真梨恵「スペクタクル」PV",
+      "artist": "Marie Ueda",
+      "has_synced": false,
+      "path": "select/07_植田真梨恵「スペクタクル」PV_Marie_Ueda.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スーパー スタァ スペクタクル",
+      "artist": "愛城華恋(CV:小山百代)、神楽ひかり(CV:三森すずこ)",
+      "has_synced": true,
+      "path": "select/08_スーパー_スタァ_スペクタクル_愛城華恋(CV_小山百代)、神楽ひかり(CV_三森すずこ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スペクタクル",
+      "artist": "空白ごっこ",
+      "has_synced": false,
+      "path": "select/pl_01_スペクタクル_空白ごっこ.txt"
+    }
+  ]
+}
